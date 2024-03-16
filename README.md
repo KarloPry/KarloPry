@@ -1,5 +1,15 @@
 <h2 align="left">Hi 👋! My name is Karlo Paz and I'm a Frontend Developer, from Mexico</h2>
 
+<h3>Things I like 🥽</h3>
+<ul>
+  <li>Learning new things</li>
+  <li>Listen to music from Joji my beloved 🩵</li>
+  <li>Helping my friends fix bugs</li>
+  <li>Getting mad at Javascript</li>
+  <li>Reading books</li>
+  <li>And much more!</li>
+</ul>
+
 ###
 
 <div align="center">
@@ -12,6 +22,8 @@
 <img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M4cGtndXkwY3ZrZjVyYXkzajlucmJ2b2VxN2ptM2pwbzZhbG5xNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9TYOxSLqBIrK0/giphy.gif"  />
 
 ###
+
+<h1>Some things I can use!</h1>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -35,6 +47,45 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="30" alt="amazonwebservices logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="30" alt="slack logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
+</div>
+
+<h1>Some things I want to learn...</h1>
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="30" alt="angularjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=solidjs" height="30" alt="solid logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg" height="30" alt="svelte logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="30" alt="googlecloud logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=remix" height="30" alt="remix logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/dotnet/512BD4" height="30" alt="dot-net logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/electron/47848F" height="30" alt="electron logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
 </div>
 
 ###
