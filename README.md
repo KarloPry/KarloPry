@@ -19,11 +19,10 @@
 
 ###
 
-<img align="right" height="250" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M4cGtndXkwY3ZrZjVyYXkzajlucmJ2b2VxN2ptM2pwbzZhbG5xNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9TYOxSLqBIrK0/giphy.gif"  />
+<img align="right" height="250" style="z-index:10;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M4cGtndXkwY3ZrZjVyYXkzajlucmJ2b2VxN2ptM2pwbzZhbG5xNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9TYOxSLqBIrK0/giphy.gif"  />
 
-###
 
-<h1>Some things I can use!</h1>
+<h3>Some things I can use!</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
@@ -62,7 +61,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" alt="sqlite logo"  />
 </div>
 
-<h1>Some things I want to learn...</h1>
+<h3>Some things I want to learn...</h3>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
@@ -88,8 +87,7 @@
   <img src="https://skillicons.dev/icons?i=webpack" height="30" alt="webpack logo"  />
 </div>
 
-###
-
+## And you can find me here!
 <div align="left">
   <a href="karlopazpory@gmai.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
