@@ -3,7 +3,7 @@
 <h3>Things I like 🥽</h3>
 <ul>
   <li>Learning new things</li>
-  <li>Listen to Joji my beloved 🩵</li>
+  <li>Listening to Joji my beloved 🩵</li>
   <li>Helping my friends fix bugs</li>
   <li>Getting mad at Javascript</li>
   <li>Reading books</li>
