@@ -19,9 +19,6 @@
 
 ###
 
-```math
-\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://static.vecteezy.com/system/resources/previews/007/124/049/large_2x/watermelon-repeat-pattern-design-hand-drawn-background-floral-pattern-for-wrapping-paper-or-fabric-vector.jpg');]{x0000}$}
-
 <img align="right" height="250" style="z-index:10;" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2M4cGtndXkwY3ZrZjVyYXkzajlucmJ2b2VxN2ptM2pwbzZhbG5xNSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/9TYOxSLqBIrK0/giphy.gif"  />
 
 
@@ -100,10 +97,6 @@
   </a>
 </div>
 
-###
 
-<br clear="both">
-
-
-
-###
+```math
+\ce{$\unicode[goombafont; color:red; pointer-events: none; z-index: -10; position: fixed; top: 0; left: 0; height: 100vh; object-fit: cover; background-size: cover; width: 130vw; opacity: 0.5; background: url('https://static.vecteezy.com/system/resources/previews/007/124/049/large_2x/watermelon-repeat-pattern-design-hand-drawn-background-floral-pattern-for-wrapping-paper-or-fabric-vector.jpg');]{x0000}$}
