@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Karlo Paz and I'm a Fullstack Developer from Mexico 3x certified on AWS</h2>
+<h2 align="left">Hi 👋! My name is Karlo Paz and I'm a Fullstack Developer from Mexico, 3x certified on AWS</h2>
 
 <h3>Things I like 🥽</h3>
 <ul>
