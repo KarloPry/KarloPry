@@ -1,10 +1,10 @@
-<h2 align="left">Hi 👋! My name is Karlo Paz and I'm a Frontend Developer, from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Karlo Paz and I'm a Fullstack Developer from Mexico</h2>
 
 <h3>Things I like 🥽</h3>
 <ul>
   <li>Learning new things</li>
   <li>Listening to Joji my beloved 🩵</li>
-  <li>Helping my friends fix bugs</li>
+  <li>Debugging in production 😈</li>
   <li>Getting mad at Javascript</li>
   <li>Reading books</li>
   <li>And much more!</li>
@@ -33,10 +33,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" alt="nextjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
